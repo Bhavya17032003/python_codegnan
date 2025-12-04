@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../virtual_email_assistant"
+		},
+		{
+			"path": "../Bank application_email_sender"
+		},
+		{
+			"path": "../Virtual_assistant"
+		},
+		{
+			"path": "../Bank Application code in modules"
+		},
+		{
+			"path": "../Email sender"
+		}
+	],
+	"settings": {}
+}
